@@ -42,7 +42,7 @@ FlareSight-AI is an AI-driven project for satellite solar analysis and control. 
 Use the provided `requirements.txt` to install all necessary packages:
 
 ```bash
-pip install -r requirements.txt'''
+pip install -r requirements.txt
 
 ## Usage
 
@@ -53,7 +53,7 @@ pip install -r requirements.txt'''
   Run the Gradio interface (which handles image acquisition, processing, prediction, and saving results) by executing:
 
   ```bash
-  python interface.py'''
+  python interface.py
 
 Alternatively, open and run the `interface.ipynb` notebook in Jupyter.
 
