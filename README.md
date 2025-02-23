@@ -48,14 +48,14 @@ pip install -r requirements.txt
 
 ### 1. Interface & Model Prediction
 
-- **Launching the Interface:**
+**Launching the Interface:**
 
-  Run the Gradio interface (which handles image acquisition, processing, prediction, and saving results) by executing:
+Run the Gradio interface (which handles image acquisition, processing, prediction, and saving results) by executing:
 
-  ```bash
-  python interface.py
+```bash
+python interface.py
 
-Alternatively, open and run the `interface.ipynb` notebook in Jupyter.
+
 
 ### 2. Satellite Integration
 
