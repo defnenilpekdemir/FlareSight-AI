@@ -1,0 +1,9 @@
+tensorflow>=2.0.0
+keras>=2.4.3
+gradio>=2.0.0
+bleak>=0.9.1
+opencv-python>=4.2.0.32
+numpy>=1.18.0
+pandas>=1.0.0
+requests>=2.22.0
+Pillow>=7.0.0
