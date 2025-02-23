@@ -54,6 +54,7 @@ pip install -r requirements.txt
 
   ```bash
   python interface.py
+
 Alternatively, open and run the `interface.ipynb` notebook in Jupyter.
 
 ### 2. Satellite Integration
