@@ -37,3 +37,11 @@ FlareSight-AI is an AI-driven project for satellite solar analysis and control. 
    git clone https://github.com/adakilinc/FlareSight-AI.git
    cd FlareSight-AI
 
+2. **Install Dependendencies**
+
+Use the provided `requirements.txt` to install all necessary packages:
+
+```bash
+pip install -r requirements.txt
+
+
