@@ -35,14 +35,14 @@ FlareSight-AI is an AI-driven project for satellite solar analysis and control. 
 
    ```bash
    git clone https://github.com/adakilinc/FlareSight-AI.git
-   cd FlareSight-AI
+   cd FlareSight-AI ```
 
 2. **Install Dependendencies**
 
 Use the provided `requirements.txt` to install all necessary packages:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
 ## Usage
 
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 Run the Gradio interface (which handles image acquisition, processing, prediction, and saving results) by executing:
 
 ```bash
-python interface.py
+python interface.py ```
 
 
 
