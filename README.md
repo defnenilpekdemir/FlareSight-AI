@@ -12,7 +12,7 @@ FlareSight-AI is an AI-driven project for satellite solar analysis and control. 
    - **Result Utilization:** The JSON result files are read to extract key indices (such as the KP index) and prediction values.
    - **Command Determination & Transmission:** Based on the model outputs and KP classification, control commands are generated.
    - **Bluetooth Communication & PyBricks Integration:**  
-     The project includes complete PyBricks-based code in the `control.py` and `integration.py` scripts. These scripts handle the hardware integration and remote command transmission over Bluetooth to the satellite (or its control unit). They ensure that commands (e.g., moving a motor forward or reversing) are sent correctly based on the prediction results.
+     The project includes complete PyBricks-based code in the `control.py` and `integration.py` script. These scripts handle the hardware integration and remote command transmission over Bluetooth to the satellite (or its control unit). They ensure that commands (e.g., moving a motor forward or reversing) are sent correctly based on the prediction results.
 
 ## Features
 
